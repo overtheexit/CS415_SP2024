@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Ene.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HUB.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Enemies.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Projectile.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemies.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Shake.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Crash.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/ysl/Desktop/An_Infinite_Matrix-This_is_a_Game-main/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset"
+			]
+		}
+	]
+}
