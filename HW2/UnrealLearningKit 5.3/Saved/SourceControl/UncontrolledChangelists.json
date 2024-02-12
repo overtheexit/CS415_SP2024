@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WB_HUD.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_PlayerController.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WB_GameOver.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/MyProject/Content/NewMap.umap"
+			]
+		}
+	]
+}
