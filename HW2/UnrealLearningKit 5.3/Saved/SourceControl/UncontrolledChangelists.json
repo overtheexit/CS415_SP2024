@@ -15,7 +15,25 @@
 				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
 				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
 				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
-				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset"
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/MG_turret_portable.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/MG_turret_portable_arma_AlbedoTransparency.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/MG_turret_portable_arma_MetallicSmoothness.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/MG_turret_portable_arma_Normal.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/arma.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/textures/2_AlbedoTransparency.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/textures/2_MetallicSmoothness.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/textures/2_Normal.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/BP_Turret.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/fixed-machine-gun-turret/source/BP_TurretProjectile.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/VFX/P_Explosion_Big_A.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/fixed-machine-gun-turret/source/BP_Turret.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/fixed-machine-gun-turret/textures/2_Normal.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/fixed-machine-gun-turret/textures/2_MetallicSmoothness.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/fixed-machine-gun-turret/textures/2_AlbedoTransparency.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/fixed-machine-gun-turret/source/BP_TurretProjectile.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/fixed-machine-gun-turret/source/BP_CustomEnemy.uasset",
+				"/Users/ysl/Desktop/CS415_SP2024/HW2/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WB_LevelComplete.uasset"
 			]
 		}
 	]
